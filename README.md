@@ -7,4 +7,5 @@ Within this Predict we’ll be writing a lot of SQL statements. In order to make
 
 Install the sql_magic package by entering the following command into your terminal: 
 - pip install sql_magic.
+
 So We can use the %%read_sql magic command at the start of each cell when writing your SQL queries and the syntax will be highlighted.
